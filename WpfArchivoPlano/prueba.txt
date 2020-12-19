@@ -1,0 +1,10 @@
+
+01	El Chavo	11111111	F:\UTN\I-2017\Progra_III\WpfArchivoPlano\El-chavo-del-8.jpg
+
+
+
+02	Ron Ramón	22222222	F:\UTN\I-2017\Progra_III\WpfArchivoPlano\don_ramon.jpg
+
+
+03	Quico	33333333	F:\UTN\I-2017\Progra_III\WpfArchivoPlano\quico.jpg
+
